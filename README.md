@@ -1,5 +1,7 @@
 # OpsPilot: AI Request Triage
 
+**Live demo:** https://opspilot-sable.vercel.app
+
 OpsPilot turns messy, plain-English requests from store employees and customers into organized, prioritized work.
 Someone types "the froyo machine at store 12 is leaking." The AI classifies it, sets a priority, routes it to the right
 team, writes next steps, and drafts a reply. Every request lands in a live queue sorted by urgency.
